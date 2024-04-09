@@ -25,7 +25,7 @@ I have added an area chart representing the average time spent by any user with 
 ### Results/Findings 
 - More than 50% of students use social media over 5 hours/day.
 - Users tends to spend more hours on instagram.
-- Majority of the students are from United States.
+- Majority of the students are from United Kingdom.
 
 ### Reccomendations
 - We need to start awareness programs among the users, so they can notice about social media addiction.
