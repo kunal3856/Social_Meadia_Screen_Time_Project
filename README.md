@@ -20,7 +20,7 @@ The process involves exploring the dataset to answer the key questions, such as;
 ### Data Analysis 
 I have added an area chart representing the average time spent by any user with respect to their age, that will help us analysing which age group people use social media significantly, the pie chart will help to identify the addiction level of individual categories along with regional data and all of it can be modified by use of slicers to dive deeper into different categories and get useful insights, that will help us take suitable actions to reduce our social media usage if required.
 
-![image](https://github.com/kunal3856/Social_Meadia_Screen_Time_Project/assets/65026671/b22aea8f-ea43-4a01-a9bb-5c1753b95636)
+![image](https://github.com/kunal3856/Social_Meadia_Screen_Time_Project/assets/65026671/7ef588ca-d122-4e88-aed3-a26b613af43a)
 
 ### Results/Findings 
 - More than 40% of students use social media over 5 hours/day.
