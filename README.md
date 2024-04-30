@@ -1,7 +1,7 @@
 # Social_Meadia_Screen_Time_Project
 
 ### Overview 
-This project is focused on analysing the screen time usage for different age group people, This is one of my favourite topics to analyze as the digitalization happening the major problem at the time is of mobile addiction, Back in time when technology wasn't developed as much people used to spend 2-3 hours daily on mobile/social_media but now a days this average time spend has increased to 5-6 hours a day, which is noticeable.  
+This project is focused on analyzing the screen time usage for different age group people, This is one of my favorite topics to analyze as the digitalization happening the major problem at the time is of mobile addiction, Back in time when technology wasn't developed as much people used to spend 2-3 hours daily on mobile/social_media but now a days this average time spend has increased to 5-6 hours a day, which is noticeable.  
 
 ### Data Sources
 
